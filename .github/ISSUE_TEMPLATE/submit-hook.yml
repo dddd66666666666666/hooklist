@@ -62,3 +62,4 @@ body:
       label: Audit URL
       description: Optional — link to a security audit
       placeholder: "https://..."
+     test token: 0xc4bb9faf74106e8039a4814fa3a30ae38736ac0a
